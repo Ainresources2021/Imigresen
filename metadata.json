@@ -1,0 +1,6 @@
+{
+  "name": "ImigrasiMY",
+  "description": "Visualisasi data komprehensif dan analisis pintar mengenai status pelarian, pekerja asing berdaftar (PLKS), dan pendatang tanpa izin (PATI) di Malaysia menggunakan statistik sahih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
